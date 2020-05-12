@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166152801945",
+    "firebase_url": "https://note-database-d49b5.firebaseio.com",
+    "project_id": "note-database-d49b5",
+    "storage_bucket": "note-database-d49b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166152801945:android:72571c642124b94f923208",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166152801945-ad28r87ikvati3m3g31teefnuf3lvmcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoapp",
+            "certificate_hash": "d50eb43be66c3348b3fc0bc832553a25ed8cc78a"
+          }
+        },
+        {
+          "client_id": "166152801945-dc0mhdboep3p9rnd8d61s86263gg3ouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMF6uXuLxclAFKNQHltY6DNhVZn-H534"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166152801945-dc0mhdboep3p9rnd8d61s86263gg3ouf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
